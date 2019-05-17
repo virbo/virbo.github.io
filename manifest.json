@@ -3,13 +3,80 @@
   "name": "Real Count PILPRES 2019",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-24.png",
+      "sizes": "24x24",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-64.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0"
+    },
+    {
+      "src":
+      "https://s3-id-jkt-1.kilatstorage.id/cdn-dutainformasi/pilpres2019/assets/icons/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": "4.0"
     }
   ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#00d1b2",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.realcountkpu",
+      "id": "com.realcountkpu"
+    }
+  ],
+  "gcm_sender_id": "149717606481"
 }
